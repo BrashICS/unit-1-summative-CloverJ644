@@ -15,7 +15,18 @@ h2, h3, h4{
     text-align: center;
 }
 
-p {
-    color:darkslategray;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+a:link{
+    color:mediumslateblue
+}
+
+a:visited{
+    color:mediumorchid
+}
+
+a:hover{
+    color:slateblue
+}
+
+a:visited:hover{
+    color:darkorchid
 }
